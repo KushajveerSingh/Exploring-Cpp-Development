@@ -28,5 +28,24 @@
 
   "[mdx]": {
     "editor.tabSize": 4
-  }
+  },
+  "cSpell.words": [
+    "Anders",
+    "Bjarne",
+    "Callgrind",
+    "cppreference",
+    "doctest",
+    "Drepper",
+    "Josuttis",
+    "learncpp",
+    "makefiletutorial",
+    "Moller",
+    "Stroustrup",
+    "studyplan",
+    "udemy",
+    "Ulrich",
+    "Valgrind",
+    "vcpkg",
+    "Vulkan"
+  ]
 }
