@@ -1,7 +1,7 @@
 import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
-  docs: ['learning_resources'],
+  docs: ['resources'],
 };
 
 export default sidebars;
